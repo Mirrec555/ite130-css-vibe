@@ -31,10 +31,10 @@ Bootstrap erbjuder färdiga CSS-klasser som hjälper dig skapa en layout som anp
 
 JavaScript gör att sidan kan reagera på besökarens handlingar. På Kattliv ändrar knappen **En till kattfakta** faktatexten när du klickar.
 
-![Illustration av ett klick som via JavaScript uppdaterar innehållet på en webbsida](images/javascript-interaction.svg)
+![Illustration av ett klick som via JavaScript uppdaterar innehållet på en webbsida](images/javascript-interaction.png)
 
 ## Vibe Coding - webbsidans AI-assisterade programmering.
 
 Vibe coding innebär att ta hjälp av AI för att skapa och ändra kod genom att beskriva vad du vill göra. Testa resultatet och granska koden — du ansvarar för att den fungerar och att innehållet stämmer.
 
-![Illustration av en idé som utvecklas till kod med hjälp av AI](images/vibe-coding.svg)
+![Illustration av en idé som utvecklas till kod med hjälp av AI](images/vibe-coding.png)
